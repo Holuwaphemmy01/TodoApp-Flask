@@ -36,7 +36,7 @@ class RegisterRequest:
         return self.__username
 
      @username.setter
-     def username(self, value):
+     def set_username(self, value):
         self.__username = value
 
 
