@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad18be98-caff-4a2e-86f7-881d69a668a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Todo App Flask.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_register.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/dtos/request/registerRequest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/model/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/model/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/services/register/register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/dtos/request/registerRequest.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/dtos/request/registerRequest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/services/register/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/services/register/register.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +114,8 @@
       <updated>1737318990512</updated>
       <workItem from="1737318991573" duration="6775000" />
       <workItem from="1737359946001" duration="1818000" />
+      <workItem from="1737367765982" duration="705000" />
+      <workItem from="1737386753898" duration="1562000" />
     </task>
     <servers />
   </component>
@@ -131,6 +124,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Todo_App_Flask$Todo_App_Flask.coverage" NAME="Todo App Flask Coverage Results" MODIFIED="1737322242795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Todo_App_Flask$.coverage" NAME=" Coverage Results" MODIFIED="1737324188781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/Todo_App_Flask$.coverage" NAME=" Coverage Results" MODIFIED="1737393480197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
   </component>
 </project>

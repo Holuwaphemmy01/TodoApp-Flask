@@ -1,9 +1,9 @@
 class RegisterRequest:
-     def __init__(self, username, password, first_name, last_name):
-         self.__username = username
-         self.__password = password
-         self.__first_name = first_name
-         self.__last_name = last_name
+     def __init__(self):
+         self.__username = None
+         self.__password = None
+         self.__first_name = None
+         self.__last_name = None
 
 
      @property

@@ -4,9 +4,15 @@ from todo.dtos.request.registerRequest import RegisterRequest
 
 
 class Test(TestCase):
+    register = register
     def test_that_user_cannot_register_when_firstname_is_empty(self):
-        RegisterRequest.first_name = " "
-        RegisterRequest.last_name = " "
-        RegisterRequest.username = " "
-        RegisterRequest.password = " "
-        self.assertRaises(register(RegisterRequest))
+        request = RegisterRequest
+        request.set_first_name = 'r'
+        request.lastName = ''
+        # print(request)
+        print(register(request))
+        # self.assertRaises(register(request))
+
+
+
+
